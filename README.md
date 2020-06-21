@@ -9,3 +9,5 @@ Here this repository contains following files
 1. .r file conatining code
 2. CodeBook.md conatining info of data set
 3. TidySet data as the output of operation carried out in .r file 
+
+This First Merge data (Training and Testing) . New created columns are renamed and then Mean and Standard Deviation is calculated. TidySet is finally populated with the result.
